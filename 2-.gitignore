@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+battle*.log
+bots/
+classes/
+__pycache__/
